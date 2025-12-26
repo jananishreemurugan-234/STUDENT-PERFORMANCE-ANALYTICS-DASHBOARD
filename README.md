@@ -15,7 +15,7 @@ The objectives of this project are to:
 - Understand the impact of attendance and study habits
 - Highlight top-performing and struggling students
 - Use visual dashboards to support academic decision-making
-This project supports the Tamizhan Skills internship goal of applying data science concepts to real-world social and educational problems.
+- This project supports the Tamizhan Skills internship goal of applying data science concepts to real-world social and educational problems.
 
 ## Dataset Description
 The dataset (Final_Marks_Data.csv) contains student academic details, including:
@@ -26,7 +26,7 @@ The dataset (Final_Marks_Data.csv) contains student academic details, including:
 - Assignment Score (out of 10)
 - Daily Study Hours
 - Final Exam Marks (out of 100)
-The dataset is preprocessed to ensure all numerical values are properly formatted for analysis.
+- The dataset is preprocessed to ensure all numerical values are properly formatted for analysis.
 
 ## Tools & Technologies
 - Python
@@ -48,9 +48,13 @@ The analysis workflow implemented in the program code includes:
 ## OUTPUT
 ## Visualizations Included
 ### Bar Chart – Top 20 Student Performance
-
+<img width="1176" height="481" alt="Screenshot 2025-12-26 183931" src="https://github.com/user-attachments/assets/be70c028-86d0-465b-813b-4b792280e3d6" />
 
 ### Bar Chart – Bottom 20 (Struggling Students)
+<img width="1173" height="485" alt="Screenshot 2025-12-26 184033" src="https://github.com/user-attachments/assets/1e7b5cec-2018-4187-9d1e-62b381f9706c" />
+
+### Correlation Heatmap between Study Factors
+<img width="1163" height="858" alt="Screenshot 2025-12-26 184314" src="https://github.com/user-attachments/assets/639a6ceb-7643-4ff7-9a17-5db5d9b3f52b" />
 
 Correlation Heatmap showing relationships between:
 - Attendance
@@ -58,7 +62,7 @@ Correlation Heatmap showing relationships between:
 - Assignments
 - Study hours
 - Final exam marks
-These visualizations act as a performance analytics dashboard for academic monitoring.
+- These visualizations act as a performance analytics dashboard for academic monitoring.
 
 ## Conclusion
 This project successfully demonstrates how data science and analytics can be applied in the education domain to improve student outcomes. Through the Tamizhan Skills Data Science & Analytics Internship, practical experience was gained in data preprocessing, exploratory data analysis, and visualization. The dashboard created through this project can help institutions take early action to support struggling students and improve overall academic performance.
